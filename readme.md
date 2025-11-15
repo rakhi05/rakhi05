@@ -42,10 +42,11 @@ A responsive front-end hotel management webpage with multiple sections like Home
 - Learning **Full-Stack Web Development**  
 - Improving JavaScript & building mini-projects  
 - Exploring open-source contributions  
-- Strengthening DSA fundamentals  
+ 
 
 ---
 
 ## 📫 Connect With Me
 Feel free to explore my repositories or reach out anytime!
+
 
