@@ -46,16 +46,17 @@ A responsive front-end hotel management webpage with multiple sections like Home
 
 ---
 
-## 📫 Connect With Me## 
+## 📬 Connect With Me
 
-<a href="https://github.com/https://github.com/rakhi05" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Connect-black?style=for-the-badge&logo=github" />
-</a>
+<p align="left">
+  <a href="https://github.com/rakhi05" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Connect-black?style=for-the-badge&logo=github" />
+  </a>
 
-<a href="https://www.linkedin.com/in/www.linkedin.com/in/rakhi-kumari2007" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
+  <a href="https://www.linkedin.com/in/rakhi-kumari2007" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
 Feel free to explore my repositories or reach out anytime!
 
