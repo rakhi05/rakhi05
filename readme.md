@@ -50,7 +50,7 @@ A responsive front-end hotel management webpage with multiple sections like Home
 
 <p align="left">
   <a href="https://github.com/rakhi05" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Connect-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Connect-blue?style=for-the-badge&logo=github" />
   </a>
 
   <a href="https://www.linkedin.com/in/rakhi-kumari2007" target="_blank">
@@ -59,6 +59,7 @@ A responsive front-end hotel management webpage with multiple sections like Home
 </p>
 
 Feel free to explore my repositories or reach out anytime!
+
 
 
 
